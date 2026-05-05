@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715757124697",
+    "project_id": "dbcrudpastillero",
+    "storage_bucket": "dbcrudpastillero.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715757124697:android:0534cc9e9234cd265e0548",
+        "android_client_info": {
+          "package_name": "com.example.crudpastillero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzzFPy60yzxFwNcJg-p3QeM6s5pp2ISgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
